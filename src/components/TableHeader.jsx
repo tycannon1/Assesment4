@@ -3,10 +3,10 @@ function TableHeader() {
     return (
       <tr>
           <th></th>
-          <th>Description</th>
-          <th>Rate</th>
-          <th>Hours</th>
-          <th>Amount</th>
+          <th>Product Description</th>
+          <th>Product Price</th>
+          <th>Quantity</th>
+          <th>Projected Revanue</th>
       </tr>
     )
   }
