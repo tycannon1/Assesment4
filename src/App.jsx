@@ -1,13 +1,12 @@
-import { useState } from 'react'
-import './App.css'
+import './App.css';
+import InvoiceTable from './components/InvoiceTable';
 
-function App() {
 
+
+function App({ initialData }) {
   return (
-    <>
-      <h1>HELLO WORLD</h1>
-    </>
+    <InvoiceTable initialData={initialData} />
   )
 }
 
-export default App
+export default App;
