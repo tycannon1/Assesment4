@@ -1,8 +1,8 @@
 let TEST_DATA = [
-    { id: 0, description: 'Content plan', rate: 50, hours: 4 },
-    { id: 1, description: 'Copy writing', rate: 50, hours: 2 },
-    { id: 2, description: 'Website design', rate: 50, hours: 5 },
-    { id: 3, description: 'Website development', rate: 100, hours: 5 },
+    { id: 0, description: 'Blender Bottle', rate: 15, hours: 112 },
+    { id: 1, description: 'Cross Body Bag', rate: 46, hours: 130 },
+    { id: 2, description: 'Shorts', rate: 50, hours: 230 },
+    { id: 3, description: 'Igor On Vinal', rate: 60, hours: 3 },
   ];
 
   let globalId = 4
